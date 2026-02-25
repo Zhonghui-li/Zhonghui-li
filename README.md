@@ -97,7 +97,7 @@ Recent **M.S. graduate in Computer Science and Engineering** from **UC Santa Cru
 <div align="center">
 
 [![SkillMatch Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=skillmatch-&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/skillmatch-)
-[![Agent RL Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=agent_rl&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/agent_rl)
+[![Agentic-RAG Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=agent_rl&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/agent_rl)
 [![DeepRacer Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=autonomous-racing-rl&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/autonomous-racing-rl)
 [![Fine-Grained SSL Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=fine-grained-ssl&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/fine-grained-ssl)
 
