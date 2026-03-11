@@ -96,11 +96,11 @@ Recent **M.S. graduate in Computer Science and Engineering** from **UC Santa Cru
 
 <div align="center">
 
-[![SkillMatch Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhonghui-li&repo=skillmatch-&theme=tokyonight)](https://github.com/Zhonghui-li/skillmatch-)
-[![Agentic RAG Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhonghui-li&repo=Agentic-RAG&theme=tokyonight)](https://github.com/Zhonghui-li/Agentic-RAG)
-[![DeepRacer Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhonghui-li&repo=autonomous-racing-rl&theme=tokyonight)](https://github.com/Zhonghui-li/autonomous-racing-rl)
-[![Fine-Grained SSL Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhonghui-li&repo=fine-grained-ssl&theme=tokyonight)](https://github.com/Zhonghui-li/fine-grained-ssl)
-[![MDA Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhonghui-li&repo=MDA&theme=tokyonight)](https://github.com/Zhonghui-li/MDA)
+[![SkillMatch Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=skillmatch-&theme=tokyonight)](https://github.com/Zhonghui-li/skillmatch-)
+[![Agentic RAG Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=Agentic-RAG&theme=tokyonight)](https://github.com/Zhonghui-li/Agentic-RAG)
+[![DeepRacer Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=autonomous-racing-rl&theme=tokyonight)](https://github.com/Zhonghui-li/autonomous-racing-rl)
+[![Fine-Grained SSL Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=fine-grained-ssl&theme=tokyonight)](https://github.com/Zhonghui-li/fine-grained-ssl)
+[![MDA Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=MDA&theme=tokyonight)](https://github.com/Zhonghui-li/MDA)
 
 </div>
 
@@ -118,8 +118,8 @@ Recent **M.S. graduate in Computer Science and Engineering** from **UC Santa Cru
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zhonghui-li&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhonghui-li&layout=compact&theme=tokyonight&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-topaz-psi-34.vercel.app/api?username=Zhonghui-li&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs"/>
+<img height="180em" src="https://github-readme-stats-topaz-psi-34.vercel.app/api/top-langs/?username=Zhonghui-li&layout=compact&theme=tokyonight&langs_count=8"/>
 
 </div>
 
