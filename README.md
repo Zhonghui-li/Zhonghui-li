@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Full+Stack+Developer;AI%2FML+Engineer+%7C+Data+Scientist;Building+cool+stuff+with+code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/zhonghui-li-b295a6281/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/yikedabaicaimuuuu"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/Zhonghui-li"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
@@ -96,21 +96,21 @@ Recent **M.S. graduate in Computer Science and Engineering** from **UC Santa Cru
 
 <div align="center">
 
-[![SkillMatch Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=skillmatch-&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/skillmatch-)
-[![Agentic RAG Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=Agentic-RAG&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/Agentic-RAG)
-[![DeepRacer Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=autonomous-racing-rl&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/autonomous-racing-rl)
-[![Fine-Grained SSL Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=fine-grained-ssl&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/fine-grained-ssl)
-[![MDA Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=MDA&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/MDA)
+[![SkillMatch Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=skillmatch-&theme=tokyonight)](https://github.com/Zhonghui-li/skillmatch-)
+[![Agentic RAG Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=Agentic-RAG&theme=tokyonight)](https://github.com/Zhonghui-li/Agentic-RAG)
+[![DeepRacer Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=autonomous-racing-rl&theme=tokyonight)](https://github.com/Zhonghui-li/autonomous-racing-rl)
+[![Fine-Grained SSL Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=fine-grained-ssl&theme=tokyonight)](https://github.com/Zhonghui-li/fine-grained-ssl)
+[![MDA Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=MDA&theme=tokyonight)](https://github.com/Zhonghui-li/MDA)
 
 </div>
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [SkillMatch](https://github.com/yikedabaicaimuuuu/skillmatch-) | Full-stack skill matching platform with ML recommendations (TF-IDF), real-time WebSocket messaging, and 85%+ test coverage | React, Express, Redis, Docker |
-| [Agentic RAG](https://github.com/yikedabaicaimuuuu/Agentic-RAG) | Production-ready RAG system with LangGraph orchestration, 430x latency improvement via Redis caching, and Prometheus/Grafana monitoring | FastAPI, Flask, Next.js, Redis, Docker |
-| [Autonomous Racing RL](https://github.com/yikedabaicaimuuuu/autonomous-racing-rl) | Reinforcement learning agents (PPO) for autonomous vehicle racing simulation, with containerized HPC training pipeline | PyTorch, Docker, HPC, RL |
-| [Fine-Grained SSL](https://github.com/yikedabaicaimuuuu/fine-grained-ssl) | Cloud-scale image classification pipeline on GCP with semi-supervised training, achieving 93.84% accuracy | PyTorch, GCP, Semi-Supervised Learning |
-| [MDA](https://github.com/yikedabaicaimuuuu/MDA) | Empirical finance study using sentence-embedding-based Semantic Diversity Index (SDI) to measure within-document topic breadth and predict firm uncertainty and capital market outcomes | Python, NLP, Jupyter |
+| [SkillMatch](https://github.com/Zhonghui-li/skillmatch-) | Full-stack skill matching platform with ML recommendations (TF-IDF), real-time WebSocket messaging, and 85%+ test coverage | React, Express, Redis, Docker |
+| [Agentic RAG](https://github.com/Zhonghui-li/Agentic-RAG) | Production-ready RAG system with LangGraph orchestration, 430x latency improvement via Redis caching, and Prometheus/Grafana monitoring | FastAPI, Flask, Next.js, Redis, Docker |
+| [Autonomous Racing RL](https://github.com/Zhonghui-li/autonomous-racing-rl) | Reinforcement learning agents (PPO) for autonomous vehicle racing simulation, with containerized HPC training pipeline | PyTorch, Docker, HPC, RL |
+| [Fine-Grained SSL](https://github.com/Zhonghui-li/fine-grained-ssl) | Cloud-scale image classification pipeline on GCP with semi-supervised training, achieving 93.84% accuracy | PyTorch, GCP, Semi-Supervised Learning |
+| [MDA](https://github.com/Zhonghui-li/MDA) | Empirical finance study using sentence-embedding-based Semantic Diversity Index (SDI) to measure within-document topic breadth and predict firm uncertainty and capital market outcomes | Python, NLP, Jupyter |
 
 ---
 
@@ -118,8 +118,8 @@ Recent **M.S. graduate in Computer Science and Engineering** from **UC Santa Cru
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-topaz-psi-34.vercel.app/api?username=yikedabaicaimuuuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs"/>
-<img height="180em" src="https://github-readme-stats-topaz-psi-34.vercel.app/api/top-langs/?username=yikedabaicaimuuuu&layout=compact&theme=tokyonight&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-topaz-psi-34.vercel.app/api?username=Zhonghui-li&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs"/>
+<img height="180em" src="https://github-readme-stats-topaz-psi-34.vercel.app/api/top-langs/?username=Zhonghui-li&layout=compact&theme=tokyonight&langs_count=8"/>
 
 </div>
 
@@ -132,11 +132,11 @@ Recent **M.S. graduate in Computer Science and Engineering** from **UC Santa Cru
 <i>Feel free to reach out for collaborations, job opportunities, or just a friendly chat!</i>
 
 [![LinkedIn](https://img.shields.io/badge/-Zhonghui_Li-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhonghui-li-b295a6281/)
-[![GitHub](https://img.shields.io/badge/-yikedabaicaimuuuu-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/yikedabaicaimuuuu)
+[![GitHub](https://img.shields.io/badge/-Zhonghui-li-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Zhonghui-li)
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yikedabaicaimuuuu&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=Zhonghui-li&color=blueviolet&style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
