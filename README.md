@@ -100,7 +100,7 @@ Recent **M.S. graduate in Computer Science and Engineering** from **UC Santa Cru
 [![Agentic RAG Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=Agentic-RAG&theme=tokyonight&v=2)](https://github.com/Zhonghui-li/Agentic-RAG)
 [![DeepRacer Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=autonomous-racing-rl&theme=tokyonight&v=2)](https://github.com/Zhonghui-li/autonomous-racing-rl)
 [![Fine-Grained SSL Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=fine-grained-ssl&theme=tokyonight&v=2)](https://github.com/Zhonghui-li/fine-grained-ssl)
-[![MDA Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=MDA&theme=tokyonight&v=2)](https://github.com/Zhonghui-li/MDA)
+[![Meetily Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=meetily&theme=tokyonight&v=2)](https://github.com/Zhonghui-li/meetily)
 
 </div>
 
@@ -110,7 +110,7 @@ Recent **M.S. graduate in Computer Science and Engineering** from **UC Santa Cru
 | [Agentic RAG](https://github.com/Zhonghui-li/Agentic-RAG) | Production-ready RAG system with LangGraph orchestration, 430x latency improvement via Redis caching, and Prometheus/Grafana monitoring | FastAPI, Flask, Next.js, Redis, Docker |
 | [Autonomous Racing RL](https://github.com/Zhonghui-li/autonomous-racing-rl) | Reinforcement learning agents (PPO) for autonomous vehicle racing simulation, with containerized HPC training pipeline | PyTorch, Docker, HPC, RL |
 | [Fine-Grained SSL](https://github.com/Zhonghui-li/fine-grained-ssl) | Cloud-scale image classification pipeline on GCP with semi-supervised training, achieving 93.84% accuracy | PyTorch, GCP, Semi-Supervised Learning |
-| [MDA](https://github.com/Zhonghui-li/MDA) | Empirical finance study using sentence-embedding-based Semantic Diversity Index (SDI) to measure within-document topic breadth and predict firm uncertainty and capital market outcomes | Python, NLP, Jupyter |
+| [Meetily Fork](https://github.com/Zhonghui-li/meetily) | Extended Meetily with an MCP server connecting Claude Desktop to local SQLite meeting data for natural language session queries; includes automated startup scripting and planned LangGraph + BM25/FAISS agentic RAG pipeline | Python, FastAPI, Whisper, MCP, SQLite, Groq/Claude |
 
 ---
 
