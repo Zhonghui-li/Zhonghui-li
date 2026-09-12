@@ -47,18 +47,9 @@ Recent **M.S. graduate in Computer Science and Engineering** from **UC Santa Cru
 
 ## Featured Projects
 
-<div align="center">
-
-[![SkillMatch Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=skillmatch-&theme=tokyonight&v=2)](https://github.com/Zhonghui-li/skillmatch-)
-[![Agentic RAG Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=Agentic-RAG&theme=tokyonight&v=2)](https://github.com/Zhonghui-li/Agentic-RAG)
-[![DeepRacer Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=autonomous-racing-rl&theme=tokyonight&v=2)](https://github.com/Zhonghui-li/autonomous-racing-rl)
-[![Fine-Grained SSL Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=fine-grained-ssl&theme=tokyonight&v=2)](https://github.com/Zhonghui-li/fine-grained-ssl)
-[![Meetily Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=Zhonghui-li&repo=meetily&theme=tokyonight&v=2)](https://github.com/Zhonghui-li/meetily)
-
-</div>
-
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [**Vouch** — SEC Filing Agent](https://github.com/Zhonghui-li/sec-filing-agent) · [**live demo**](https://sec-filing-agent-759005971862.us-central1.run.app) | Finance-grade tool-calling agent over **10-K/10-Q/8-K** for **any U.S. public company**. Figures are fetched live from **XBRL** by deterministic tools and a Program-of-Thought evaluator, so the LLM never does the arithmetic; every answer cites its filing, and it **abstains rather than fabricates**. On the external **FinanceBench** benchmark: **93% addressable coverage at a zero-fabrication rate**. Two-layer **eval-in-CI**, a human-calibrated LLM judge (κ = 0.76), **Langfuse** trace scoring, and an **MCP** server | LangGraph, XBRL, pgvector, Docling, Ragas, Langfuse, MCP, GCP Cloud Run |
 | [SkillMatch](https://github.com/Zhonghui-li/skillmatch-) | Full-stack skill matching platform with ML recommendations (TF-IDF), real-time WebSocket messaging, and 85%+ test coverage | React, Express, Redis, Docker |
 | [🍌 Slug Advisor](https://github.com/Zhonghui-li/Agentic-RAG) · [**live demo**](https://slug-advisor-759005971862.us-central1.run.app) | Deployed tool-calling agent for UCSC course advising — LangGraph ReAct, hybrid retrieval (BM25 + **pgvector**) + reranker, **eval-in-CI** gate, **Langfuse** observability + eval-score loop, **MCP** server | LangGraph, FastAPI, pgvector, Ragas, Langfuse, MCP, GCP Cloud Run |
 | [Autonomous Racing RL](https://github.com/Zhonghui-li/autonomous-racing-rl) | Reinforcement learning agents (PPO) for autonomous vehicle racing simulation, with containerized HPC training pipeline | PyTorch, Docker, HPC, RL |
